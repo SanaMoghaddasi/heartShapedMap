@@ -11,16 +11,5 @@ body, html {
     border: 5px solid #D9D0C9;
     border-radius: 15%;
   }
-.booji {
-  font-weight: 900;
-  font-size: 50px;
-  color: #685F63;
-  margin-top: 80px;
-  text-shadow: 
-                2px 2px #D9D0C9, 
-                -2px -2px #D9D0C9, 
-                2px -2px #D9D0C9,
-                -2px 2px #D9D0C9;
-        }
 
 img.huechange { filter: hue-rotate(190deg); }
